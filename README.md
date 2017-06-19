@@ -30,3 +30,8 @@
 - [计算器](https://chrome.google.com/webstore/detail/calculator/joodangkbfjnajiiifokapkpmhfnpleo) Chrome中一款material design 风格的计算器
 - [迅雷 QQ旋风 快车链接自动转换 - 极简版](https://chrome.google.com/webstore/detail/%E8%BF%85%E9%9B%B7-qq%E6%97%8B%E9%A3%8E-%E5%BF%AB%E8%BD%A6%E9%93%BE%E6%8E%A5%E8%87%AA%E5%8A%A8%E8%BD%AC%E6%8D%A2-%E6%9E%81%E7%AE%80%E7%89%88/ijacdiajfhmmglphbglbgjjldcpfkglj) 该插件是一款自动转换迅雷、QQ旋风、快车专用链的工具，能自动把网页里的专用链接替换为真实地址,使用你自己喜欢的下载方式来下载.让chrome支持专用链下载,是一款特实用的下载助手
 - [迅雷下载支持](https://chrome.google.com/webstore/detail/%E8%BF%85%E9%9B%B7%E4%B8%8B%E8%BD%BD%E6%94%AF%E6%8C%81/bclmkgofhdgekpoamoialodjdloiilod) 迅雷下载支持，让您在Chrome浏览器中点击下载链接时，快速的调起迅雷客户端进行下载
+- [Bookmark sidebar](https://chrome.google.com/webstore/detail/bookmark-sidebar/jdbnofccmhefkmjbkkdkfiicjkgofkdh?hl=zh-CN) Chrome书签管理，在网页的左边鼠标左击书签就出来了，反正可以自定义
+- [Markdown Here](https://chrome.google.com/webstore/detail/markdown-here/elifhakcjgalahccnjkneoccemfahfoa?hl=zh-CN) 介绍是将邮件变为Markdown语法显示。当然不只是邮件啦，文本、网页等等都可以。
+- [ublock origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=zh-CN) 广告过滤，强
+- [广告终结者](https://chrome.google.com/webstore/detail/%E5%B9%BF%E5%91%8A%E7%BB%88%E7%BB%93%E8%80%85/fpdnjdlbdmifoocedhkighhlbchbiikl?hl=zh-CN) 强
+- 安装ublock origin和广告终结者这两个插件，我看视频都没有广告，直接拦截。
