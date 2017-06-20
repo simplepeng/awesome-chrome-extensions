@@ -35,3 +35,4 @@
 - [ublock origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=zh-CN) 广告过滤，强
 - [广告终结者](https://chrome.google.com/webstore/detail/%E5%B9%BF%E5%91%8A%E7%BB%88%E7%BB%93%E8%80%85/fpdnjdlbdmifoocedhkighhlbchbiikl?hl=zh-CN) 强
 - 安装ublock origin和广告终结者这两个插件，我看视频都没有广告，直接拦截。
+- [Clutter free](https://chrome.google.com/webstore/detail/clutter-free-prevent-dupl/iipjdmnoigaobkamfhnojmglcdbnfaaf?hl=zh-CN) 防止打开重复网页，节省内存
